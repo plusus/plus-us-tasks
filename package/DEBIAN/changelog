@@ -1,0 +1,19 @@
+plus-us-tasks (0.3) unstable; urgency=low
+
+  * Updated scripts to generate package
+
+ -- Samuel Longchamps <samuel.longchamps@usherbrooke.ca>  Sat, 8 Oct 2016 00:00:00 -0500
+
+plus-us-tasks (0.2) unstable; urgency=low
+
+  * Changed repo for the software
+    New repo called plus-us-tasks
+
+ -- Antoine Girard-Vallée <antoine.girard-vallee@usherbrooke.ca>  Mon, 26 Sep 2016 00:00:00 -0500
+
+plus-us-tasks (0.1) unstable; urgency=low
+
+  * Initial release of the plus-us metapackages.
+    The required software have not yet been packaged or have not yet been integrated into Debian.
+
+ -- Stephane Gravel <stephane.p.gravel@usherbrooke.ca>  Wed, 30 Mar 2016 09:25:18 -0500

@@ -1,0 +1,3 @@
+This directory is needed to install a .desktop file for wpsoffice. The bug is known and closed on ArchLinux we just don't have it in debian. The fix is only to create this directory(usr/share/desktop-directories) 
+
+Link to bug : https://bugs.archlinux.org/task/33316
